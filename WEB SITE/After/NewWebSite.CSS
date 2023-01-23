@@ -1,0 +1,27 @@
+.bg-img {
+    background-image: url("https://cleananddelicious.com/wp-content/uploads/2016/03/Avocad0-CD.jpg");
+  }
+.h1{
+    color:#F20089;
+    text-align: center;
+}
+.p{
+    color: #DB00B6;
+    font-size: large;
+}
+.label
+{
+    color: #DB00B6;
+    font-size: large;
+}
+.input[type=submit] 
+{
+    background-color: #F20089;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+    
